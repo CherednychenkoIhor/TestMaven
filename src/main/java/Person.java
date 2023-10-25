@@ -1,4 +1,4 @@
-package Reflection;
+import Reflection.Author;
 
 @Author(name = "Ihor", dateOfCreation = 2023)
 public class Person {
